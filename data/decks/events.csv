@@ -1,0 +1,54 @@
+,name,deck,cost_treasure,cost_debt,cost_potion,setup,isAttack,isReaction,isTrashing,isBuySupplier,isDrawer,isActionSupplier
+0,Mission,Adventures,4,0,0,,0,0,0,0,0,0
+1,Scouting Party,Adventures,2,0,0,,0,0,0,1,1,0
+2,Pathfinding,Adventures,8,0,0,,0,0,0,0,1,0
+3,Bonfire,Adventures,3,0,0,,0,0,1,0,1,0
+4,Pilgrimage,Adventures,4,0,0,,0,0,0,0,0,0
+5,Training,Adventures,6,0,0,,0,0,0,0,0,0
+6,Ball,Adventures,5,0,0,,0,0,0,0,0,0
+7,Travelling Fair,Adventures,2,0,0,,0,0,0,1,0,0
+8,Save,Adventures,1,0,0,,0,0,0,1,0,0
+9,Borrow,Adventures,0,0,0,,0,0,0,1,0,0
+10,Lost Arts,Adventures,0,0,0,,0,0,0,0,0,1
+11,Trade,Adventures,5,0,0,,0,0,1,0,0,0
+12,Raid,Adventures,5,0,0,,1,0,0,0,0,0
+13,Quest,Adventures,0,0,0,,0,0,0,0,0,0
+14,Expedition,Adventures,3,0,0,,0,0,0,0,1,0
+15,Alms,Adventures,0,0,0,,0,0,0,0,0,0
+16,Inheritance,Adventures,7,0,0,,0,0,0,0,0,0
+17,Ferry,Adventures,3,0,0,,0,0,0,0,0,0
+18,Plan,Adventures,3,0,0,,0,0,1,0,0,0
+19,Seaway,Adventures,3,0,0,,0,0,0,1,0,0
+20,Triumph,Empires,5,5,0,,0,0,0,0,0,0
+21,Annex,Empires,8,8,0,,0,0,0,0,0,0
+22,Donate,Empires,8,8,0,,0,0,1,0,0,0
+23,Advance,Empires,0,0,0,,0,0,1,0,0,0
+24,Delve,Empires,2,0,0,,0,0,0,1,0,0
+25,Tax,Empires,2,0,0,,0,0,0,0,0,0
+26,Banquet,Empires,3,0,0,,0,0,0,0,0,0
+27,Ritual,Empires,4,0,0,,0,0,1,0,0,0
+28,Salt the Earth,Empires,4,0,0,,0,0,0,0,0,0
+29,Wedding,Empires,4,3,0,,0,0,0,0,0,0
+30,Windfall,Empires,5,0,0,,0,0,0,0,0,0
+31,Conquest,Empires,6,0,0,,0,0,0,0,0,0
+32,Dominate,Empires,14,0,0,,0,0,0,0,0,0
+33,Delay,Menagerie,0,0,0,,0,0,0,0,0,0
+34,Desperation,Menagerie,0,0,0,,0,0,0,0,0,0
+35,Gamble,Menagerie,2,0,0,,0,0,0,0,0,0
+36,Pursue,Menagerie,2,0,0,,0,0,0,0,0,0
+37,Ride,Menagerie,2,0,0,['horse'],0,0,0,0,0,0
+38,Toil,Menagerie,2,0,0,,0,0,0,0,0,0
+39,Enhance,Menagerie,3,0,0,,0,0,0,0,0,0
+40,March,Menagerie,3,0,0,,0,0,0,0,0,0
+41,Transport,Menagerie,3,0,0,['exile_mat'],0,0,0,0,0,0
+42,Banish,Menagerie,4,0,0,['exile_mat'],0,0,0,0,0,0
+43,Bargain,Menagerie,4,0,0,['horse'],0,0,0,0,0,0
+44,Invest,Menagerie,4,0,0,['exile_mat'],0,0,0,0,0,0
+45,Seize the Day,Menagerie,4,0,0,,0,0,0,0,0,0
+46,Commerce,Menagerie,5,0,0,,0,0,0,0,0,0
+47,Demand,Menagerie,5,0,0,['horse'],0,0,0,0,0,0
+48,Stampede,Menagerie,5,0,0,['horse'],0,0,0,0,0,0
+49,Reap,Menagerie,7,0,0,,0,0,0,0,0,0
+50,Enclave,Menagerie,8,0,0,['exile_mat'],0,0,0,0,0,0
+51,Alliance,Menagerie,10,0,0,,0,0,0,0,0,0
+52,Populate,Menagerie,10,0,0,,0,0,0,0,0,0
