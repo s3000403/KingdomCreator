@@ -68,7 +68,7 @@ def get_decks( deck_paths ):
     # Loop through the 'card' types
     for card_type in data:
         # Take the property list and reorganize it based on prop_order
-        prop_list = list(card_props[card_type])
+        prop_list = sorted(list(card_props[card_type]))
         for prop in prop_order[::-1]:
             if prop in prop_list:
                 prop_list.remove(prop)

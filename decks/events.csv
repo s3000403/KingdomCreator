@@ -1,29 +1,29 @@
-,name,deck,cost_treasure,cost_debt,cost_potion,setup,isAttack,isReaction,isTrashing,isBuySupplier,isDrawer,isActionSupplier
+,name,deck,cost_treasure,cost_debt,cost_potion,setup,isAttack,isReaction,isTrashing,isActionSupplier,isBuySupplier,isDrawer
 0,Mission,Adventures,4,0,0,,0,0,0,0,0,0
-1,Scouting Party,Adventures,2,0,0,,0,0,0,1,1,0
-2,Pathfinding,Adventures,8,0,0,,0,0,0,0,1,0
-3,Bonfire,Adventures,3,0,0,,0,0,1,0,1,0
+1,Scouting Party,Adventures,2,0,0,,0,0,0,0,1,1
+2,Pathfinding,Adventures,8,0,0,,0,0,0,0,0,1
+3,Bonfire,Adventures,3,0,0,,0,0,1,0,0,1
 4,Pilgrimage,Adventures,4,0,0,,0,0,0,0,0,0
 5,Training,Adventures,6,0,0,,0,0,0,0,0,0
 6,Ball,Adventures,5,0,0,,0,0,0,0,0,0
-7,Travelling Fair,Adventures,2,0,0,,0,0,0,1,0,0
-8,Save,Adventures,1,0,0,,0,0,0,1,0,0
-9,Borrow,Adventures,0,0,0,,0,0,0,1,0,0
-10,Lost Arts,Adventures,0,0,0,,0,0,0,0,0,1
+7,Travelling Fair,Adventures,2,0,0,,0,0,0,0,1,0
+8,Save,Adventures,1,0,0,,0,0,0,0,1,0
+9,Borrow,Adventures,0,0,0,,0,0,0,0,1,0
+10,Lost Arts,Adventures,0,0,0,,0,0,0,1,0,0
 11,Trade,Adventures,5,0,0,,0,0,1,0,0,0
 12,Raid,Adventures,5,0,0,,1,0,0,0,0,0
 13,Quest,Adventures,0,0,0,,0,0,0,0,0,0
-14,Expedition,Adventures,3,0,0,,0,0,0,0,1,0
+14,Expedition,Adventures,3,0,0,,0,0,0,0,0,1
 15,Alms,Adventures,0,0,0,,0,0,0,0,0,0
 16,Inheritance,Adventures,7,0,0,,0,0,0,0,0,0
 17,Ferry,Adventures,3,0,0,,0,0,0,0,0,0
 18,Plan,Adventures,3,0,0,,0,0,1,0,0,0
-19,Seaway,Adventures,3,0,0,,0,0,0,1,0,0
+19,Seaway,Adventures,3,0,0,,0,0,0,0,1,0
 20,Triumph,Empires,5,5,0,,0,0,0,0,0,0
 21,Annex,Empires,8,8,0,,0,0,0,0,0,0
 22,Donate,Empires,8,8,0,,0,0,1,0,0,0
 23,Advance,Empires,0,0,0,,0,0,1,0,0,0
-24,Delve,Empires,2,0,0,,0,0,0,1,0,0
+24,Delve,Empires,2,0,0,,0,0,0,0,1,0
 25,Tax,Empires,2,0,0,,0,0,0,0,0,0
 26,Banquet,Empires,3,0,0,,0,0,0,0,0,0
 27,Ritual,Empires,4,0,0,,0,0,1,0,0,0
