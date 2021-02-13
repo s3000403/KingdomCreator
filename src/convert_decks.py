@@ -98,10 +98,10 @@ def get_decks( deck_paths ):
 if __name__=='__main__':
     from glob import glob
     # Get all deck data for each 'card' type
-    data = get_decks(glob('../../data/legacy/sets/*.yaml'))
+    data = get_decks(glob('../_legacy/sets/*.yaml'))
     # Loop through 'card' types and save them to csv
     for card_type in data:
-        file_out = '../../data/decks/{}.csv'.format(card_type)
+        file_out = '../decks/{}.csv'.format(card_type)
         print('> Writing file: {}'.format(file_out))
         data[card_type].to_csv(file_out)
 
